@@ -1,4 +1,25 @@
+<h1 align="center">Hi 👋, I'm MD ABDULLAH BIN JAHID</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+- 🔭 I’m currently working on [Expense and Note Manager](https://github.com/abjahid525/MY-BIO.git)
+
+- 🌱 I’m currently learning **Everything**
+
+- 👯 I’m looking to collaborate on [https://github.com/abjahid525/MY-BIO.git](https://github.com/abjahid525/MY-BIO.git)
+
+- 🤝 I’m looking for help with [https://github.com/abjahid525/MY-BIO.git](https://github.com/abjahid525/MY-BIO.git)
+
+- 👨‍💻 All of my projects are available at [https://github.com/abjahid525/MY-BIO.git](https://github.com/abjahid525/MY-BIO.git)
+
+- 📝 I regularly write articles on [https://github.com/abjahid525/MY-BIO.git](https://github.com/abjahid525/MY-BIO.git)
+
+- 💬 Ask me about **Nothing**
+
+- 📫 How to reach me **abjahid525@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/abjahid525/MY-BIO.git](https://github.com/abjahid525/MY-BIO.git)
+
+- ⚡ Fun fact **I LOVE GAMING**
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/A B Jahid) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_b_j_a_h_i_d) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abjahid525@gmail.com) 
 
