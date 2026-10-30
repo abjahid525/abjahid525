@@ -12,7 +12,12 @@ I am a CSE student at **Bangladesh Army University of Science & Technology (BAUS
 
 ## Featured Projects
 
+[![CodeLink CI](https://github.com/abjahid525/CodeLink/actions/workflows/ci.yml/badge.svg)](https://github.com/abjahid525/CodeLink/actions/workflows/ci.yml)
+
 - [CodeLink](https://github.com/abjahid525/CodeLink) - full-stack JavaScript developer workspace with an Express API, JWT authentication, local persistence, protected admin routes, and automated smoke tests
+
+[![Note Pro CI](https://github.com/abjahid525/note-pro/actions/workflows/flutter.yml/badge.svg)](https://github.com/abjahid525/note-pro/actions/workflows/flutter.yml)
+
 - [Note Pro](https://github.com/abjahid525/note-pro) - offline-first Flutter notes app with local JSON persistence, create/edit/delete workflows, widget tests, and a web release pipeline
   - [Live demo](https://abjahid525.github.io/note-pro/)
 
