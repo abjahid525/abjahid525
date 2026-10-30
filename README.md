@@ -13,7 +13,8 @@ I am a CSE student at **Bangladesh Army University of Science & Technology (BAUS
 ## Projects
 
 - [CodeLink](https://github.com/abjahid525/CodeLink) - full-stack JavaScript developer workspace
-- [Note Pro](https://github.com/abjahid525/note-pro) - Flutter and Firestore notes app source snapshot
+- [Note Pro](https://github.com/abjahid525/note-pro) - offline-first Flutter notes app with local persistence
+  - [Live demo](https://abjahid525.github.io/note-pro/)
 
 ## Currently Learning
 
