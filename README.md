@@ -10,11 +10,13 @@ I am a CSE student at **Bangladesh Army University of Science & Technology (BAUS
 - **Core topics:** Data structures, algorithms, object-oriented programming, databases, and web development
 - **Tools:** Git, GitHub, Linux, and Visual Studio Code
 
-## Projects
+## Featured Projects
 
-- [CodeLink](https://github.com/abjahid525/CodeLink) - full-stack JavaScript developer workspace
-- [Note Pro](https://github.com/abjahid525/note-pro) - offline-first Flutter notes app with local persistence
+- [CodeLink](https://github.com/abjahid525/CodeLink) - full-stack JavaScript developer workspace with an Express API, JWT authentication, local persistence, protected admin routes, and automated smoke tests
+- [Note Pro](https://github.com/abjahid525/note-pro) - offline-first Flutter notes app with local JSON persistence, create/edit/delete workflows, widget tests, and a web release pipeline
   - [Live demo](https://abjahid525.github.io/note-pro/)
+
+Both projects include GitHub Actions checks and setup documentation so the code can be reviewed and run consistently.
 
 ## Currently Learning
 
